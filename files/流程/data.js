@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"流程.html",
+  "generationDate":new Date(1660014735114.29),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"4b3f1196401d4518982bfee2861b3f7b",
+    "type":"Axure:Page",
+    "name":"流程",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"91fdea90118d4fcda548cef251a640a8",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":36,
+              "y":102},
+            "size":{
+              "width":33,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5c9a7fad561c4fb5a3982dcb3ade8bef",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":36,
+                  "y":102},
+                "size":{
+                  "width":33,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "91fdea90118d4fcda548cef251a640a8":{
+      "scriptId":"u0"},
+    "5c9a7fad561c4fb5a3982dcb3ade8bef":{
+      "scriptId":"u1"}}});

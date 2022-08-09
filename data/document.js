@@ -17,17 +17,41 @@
         "type":"Wireframe",
         "url":"首页.html",
         "children":[{
-            "pageName":"流程示意",
+            "pageName":"定义",
             "type":"Wireframe",
-            "url":"流程示意.html"},
+            "url":"定义.html"},
 {
-            "pageName":"流程配置",
+            "pageName":"流程",
             "type":"Wireframe",
-            "url":"流程配置.html"},
+            "url":"流程.html",
+            "children":[{
+                "pageName":"流程图",
+                "type":"Wireframe",
+                "url":"流程图.html"},
+{
+                "pageName":"注册、用户设置",
+                "type":"Wireframe",
+                "url":"注册、用户设置.html"},
+{
+                "pageName":"主流程示意",
+                "type":"Wireframe",
+                "url":"主流程示意.html",
+                "children":[{
+                    "pageName":"流程配置",
+                    "type":"Wireframe",
+                    "url":"流程配置.html"}]}]},
 {
             "pageName":"待处理事项",
             "type":"Wireframe",
-            "url":"待处理事项.html"}]}]},
+            "url":"待处理事项.html"},
+{
+            "pageName":"业务统计",
+            "type":"Wireframe",
+            "url":"业务统计.html"},
+{
+            "pageName":"业务介绍配置",
+            "type":"Wireframe",
+            "url":"业务介绍配置.html"}]}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{

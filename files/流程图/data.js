@@ -1,0 +1,145 @@
+﻿$axure.loadCurrentPage({
+  "url":"流程图.html",
+  "generationDate":new Date(1660014735128.26),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"aeb1a9edbff1443fbb495db24ccb4ef7",
+    "type":"Axure:Page",
+    "name":"流程图",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"f1642593611f4274b99e86ec4dca136f",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":40,
+              "y":19},
+            "size":{
+              "width":1055,
+              "height":681}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5750ee41b9214e3f985047e7bb174103",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":40,
+                  "y":19},
+                "size":{
+                  "width":1055,
+                  "height":681}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/流程图/u0.png"}},
+{
+          "id":"06b84b9731b24fcbb949bad0ffd50ff9",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":40,
+              "y":738.000061035156},
+            "size":{
+              "width":1060,
+              "height":822}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"34d282cd3f88446b8bf7abd27fdb0761",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":40,
+                  "y":738.000061035156},
+                "size":{
+                  "width":1060,
+                  "height":822}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/流程图/u2.png"}},
+{
+          "id":"6ffa4f2ac20c4f29a6ff95275d036a06",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1170,
+              "y":19},
+            "size":{
+              "width":1065,
+              "height":1216}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e298b8ac60b044b19368f22f0f19e765",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":1170,
+                  "y":19},
+                "size":{
+                  "width":1065,
+                  "height":1216}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/流程图/u4.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "f1642593611f4274b99e86ec4dca136f":{
+      "scriptId":"u0"},
+    "5750ee41b9214e3f985047e7bb174103":{
+      "scriptId":"u1"},
+    "06b84b9731b24fcbb949bad0ffd50ff9":{
+      "scriptId":"u2"},
+    "34d282cd3f88446b8bf7abd27fdb0761":{
+      "scriptId":"u3"},
+    "6ffa4f2ac20c4f29a6ff95275d036a06":{
+      "scriptId":"u4"},
+    "e298b8ac60b044b19368f22f0f19e765":{
+      "scriptId":"u5"}}});
