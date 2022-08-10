@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"流程图.html",
-  "generationDate":new Date(1660014735128.26),
+  "generationDate":new Date(1660115816729.45),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -30,22 +30,22 @@
 },
     "diagram":{
       "objects":[{
-          "id":"f1642593611f4274b99e86ec4dca136f",
+          "id":"385979ffd36640d8b2f4a290b3b69fae",
           "label":"",
           "type":"imageBox",
           "styleType":"imageBox",
           "visible":true,
           "style":{
             "location":{
-              "x":40,
-              "y":19},
+              "x":80,
+              "y":1120},
             "size":{
-              "width":1055,
-              "height":681}},
+              "width":1068,
+              "height":980}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"5750ee41b9214e3f985047e7bb174103",
+              "id":"92c0142000d04bb7afda13ffe81bac26",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -53,32 +53,32 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":40,
-                  "y":19},
+                  "x":80,
+                  "y":1120},
                 "size":{
-                  "width":1055,
-                  "height":681}},
+                  "width":1068,
+                  "height":980}},
               "adaptiveStyles":{
 }}],
           "images":{
             "normal~":"images/流程图/u0.png"}},
 {
-          "id":"06b84b9731b24fcbb949bad0ffd50ff9",
+          "id":"55584b2c0dc242d4a060ad8fb9569813",
           "label":"",
           "type":"imageBox",
           "styleType":"imageBox",
           "visible":true,
           "style":{
             "location":{
-              "x":40,
-              "y":738.000061035156},
+              "x":80,
+              "y":2140},
             "size":{
-              "width":1060,
-              "height":822}},
+              "width":1068,
+              "height":1359}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"34d282cd3f88446b8bf7abd27fdb0761",
+              "id":"c15737be6a734387927b9275b7c8c3f2",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -86,32 +86,32 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":40,
-                  "y":738.000061035156},
+                  "x":80,
+                  "y":2140},
                 "size":{
-                  "width":1060,
-                  "height":822}},
+                  "width":1068,
+                  "height":1359}},
               "adaptiveStyles":{
 }}],
           "images":{
             "normal~":"images/流程图/u2.png"}},
 {
-          "id":"6ffa4f2ac20c4f29a6ff95275d036a06",
+          "id":"3929f8f62cad4777b86e4febf76028bd",
           "label":"",
           "type":"imageBox",
           "styleType":"imageBox",
           "visible":true,
           "style":{
             "location":{
-              "x":1170,
-              "y":19},
+              "x":80,
+              "y":40},
             "size":{
-              "width":1065,
-              "height":1216}},
+              "width":1068,
+              "height":1048}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"e298b8ac60b044b19368f22f0f19e765",
+              "id":"dddb81cbe1854e38b954cfffaa883be2",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -119,11 +119,11 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":1170,
-                  "y":19},
+                  "x":80,
+                  "y":40},
                 "size":{
-                  "width":1065,
-                  "height":1216}},
+                  "width":1068,
+                  "height":1048}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -131,15 +131,15 @@
   "masters":{
 },
   "objectPaths":{
-    "f1642593611f4274b99e86ec4dca136f":{
+    "385979ffd36640d8b2f4a290b3b69fae":{
       "scriptId":"u0"},
-    "5750ee41b9214e3f985047e7bb174103":{
+    "92c0142000d04bb7afda13ffe81bac26":{
       "scriptId":"u1"},
-    "06b84b9731b24fcbb949bad0ffd50ff9":{
+    "55584b2c0dc242d4a060ad8fb9569813":{
       "scriptId":"u2"},
-    "34d282cd3f88446b8bf7abd27fdb0761":{
+    "c15737be6a734387927b9275b7c8c3f2":{
       "scriptId":"u3"},
-    "6ffa4f2ac20c4f29a6ff95275d036a06":{
+    "3929f8f62cad4777b86e4febf76028bd":{
       "scriptId":"u4"},
-    "e298b8ac60b044b19368f22f0f19e765":{
+    "dddb81cbe1854e38b954cfffaa883be2":{
       "scriptId":"u5"}}});

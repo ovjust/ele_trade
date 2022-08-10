@@ -147,7 +147,6 @@
   left:2px;
   top:7px;
   width:406px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u13 {
@@ -170,6 +169,7 @@
   left:2px;
   top:7px;
   width:146px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u15 {
@@ -191,6 +191,7 @@
   left:2px;
   top:7px;
   width:406px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u17 {
@@ -212,8 +213,9 @@
 #u18 {
   position:absolute;
   left:2px;
-  top:2px;
+  top:10px;
   width:146px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u19 {
@@ -233,8 +235,9 @@
 #u20 {
   position:absolute;
   left:2px;
-  top:2px;
+  top:10px;
   width:406px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u21 {

@@ -1,12 +1,12 @@
 ﻿$axure.loadCurrentPage({
-  "url":"流程.html",
-  "generationDate":new Date(1660115816711.26),
+  "url":"登录.html",
+  "generationDate":new Date(1660115816734.92),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"4b3f1196401d4518982bfee2861b3f7b",
+    "packageId":"bc9c0331f294453884fccdc55ab8e06f",
     "type":"Axure:Page",
-    "name":"流程",
+    "name":"登录",
     "notes":{
 },
     "style":{
@@ -30,22 +30,22 @@
 },
     "diagram":{
       "objects":[{
-          "id":"91fdea90118d4fcda548cef251a640a8",
+          "id":"8cb2ae04d5f2454e920e1075d84b4629",
           "label":"",
           "type":"buttonShape",
           "styleType":"h1",
           "visible":true,
           "style":{
             "location":{
-              "x":36,
-              "y":102},
+              "x":80,
+              "y":80},
             "size":{
-              "width":33,
-              "height":16}},
+              "width":298,
+              "height":38}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"5c9a7fad561c4fb5a3982dcb3ade8bef",
+              "id":"f2cda5bcaa03423591470060c313403a",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -53,11 +53,11 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":36,
-                  "y":102},
+                  "x":80,
+                  "y":80},
                 "size":{
-                  "width":33,
-                  "height":16}},
+                  "width":298,
+                  "height":38}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -65,7 +65,7 @@
   "masters":{
 },
   "objectPaths":{
-    "91fdea90118d4fcda548cef251a640a8":{
+    "8cb2ae04d5f2454e920e1075d84b4629":{
       "scriptId":"u0"},
-    "5c9a7fad561c4fb5a3982dcb3ade8bef":{
+    "f2cda5bcaa03423591470060c313403a":{
       "scriptId":"u1"}}});

@@ -29,9 +29,9 @@
                 "type":"Wireframe",
                 "url":"流程图.html"},
 {
-                "pageName":"注册、用户设置",
+                "pageName":"登录",
                 "type":"Wireframe",
-                "url":"注册、用户设置.html"},
+                "url":"登录.html"},
 {
                 "pageName":"主流程示意",
                 "type":"Wireframe",
@@ -47,11 +47,7 @@
 {
             "pageName":"业务统计",
             "type":"Wireframe",
-            "url":"业务统计.html"},
-{
-            "pageName":"业务介绍配置",
-            "type":"Wireframe",
-            "url":"业务介绍配置.html"}]}]},
+            "url":"业务统计.html"}]}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{

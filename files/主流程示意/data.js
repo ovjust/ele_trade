@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主流程示意.html",
-  "generationDate":new Date(1660014735226.51),
+  "generationDate":new Date(1660115816750.87),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -652,8 +652,8 @@
               "x":172,
               "y":380},
             "size":{
-              "width":846,
-              "height":50}},
+              "width":597,
+              "height":33}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -669,8 +669,8 @@
                   "x":172,
                   "y":380},
                 "size":{
-                  "width":846,
-                  "height":50}},
+                  "width":597,
+                  "height":33}},
               "adaptiveStyles":{
 }}],
           "images":{
