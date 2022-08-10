@@ -47,7 +47,11 @@
 {
             "pageName":"业务统计",
             "type":"Wireframe",
-            "url":"业务统计.html"}]}]},
+            "url":"业务统计.html"},
+{
+            "pageName":"待确认内容",
+            "type":"Wireframe",
+            "url":"待确认内容.html"}]}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{

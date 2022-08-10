@@ -1,12 +1,12 @@
 ﻿$axure.loadCurrentPage({
-  "url":"流程.html",
-  "generationDate":new Date(1660118987974.27),
+  "url":"待确认内容.html",
+  "generationDate":new Date(1660118988279.71),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"4b3f1196401d4518982bfee2861b3f7b",
+    "packageId":"38f1170e11c34366b57b54d6f1a039de",
     "type":"Axure:Page",
-    "name":"流程",
+    "name":"待确认内容",
     "notes":{
 },
     "style":{
@@ -30,22 +30,22 @@
 },
     "diagram":{
       "objects":[{
-          "id":"91fdea90118d4fcda548cef251a640a8",
+          "id":"97f6343e2ea44308932017591b7e76d4",
           "label":"",
           "type":"buttonShape",
-          "styleType":"h1",
+          "styleType":"paragraph",
           "visible":true,
           "style":{
             "location":{
-              "x":36,
-              "y":102},
+              "x":90,
+              "y":64},
             "size":{
-              "width":33,
-              "height":16}},
+              "width":431,
+              "height":32}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"5c9a7fad561c4fb5a3982dcb3ade8bef",
+              "id":"fea57dff120e493fae13d0df367dc6d4",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -53,11 +53,11 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":36,
-                  "y":102},
+                  "x":90,
+                  "y":64},
                 "size":{
-                  "width":33,
-                  "height":16}},
+                  "width":431,
+                  "height":32}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -65,7 +65,7 @@
   "masters":{
 },
   "objectPaths":{
-    "91fdea90118d4fcda548cef251a640a8":{
+    "97f6343e2ea44308932017591b7e76d4":{
       "scriptId":"u0"},
-    "5c9a7fad561c4fb5a3982dcb3ade8bef":{
+    "fea57dff120e493fae13d0df367dc6d4":{
       "scriptId":"u1"}}});
