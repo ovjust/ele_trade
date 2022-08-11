@@ -29,9 +29,9 @@
                 "type":"Wireframe",
                 "url":"流程图.html"},
 {
-                "pageName":"登录",
+                "pageName":"注册、登录",
                 "type":"Wireframe",
-                "url":"登录.html"},
+                "url":"注册、登录.html"},
 {
                 "pageName":"主流程示意",
                 "type":"Wireframe",

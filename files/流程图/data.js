@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"流程图.html",
-  "generationDate":new Date(1660118987992.34),
+  "generationDate":new Date(1660199389418.34),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -30,88 +30,22 @@
 },
     "diagram":{
       "objects":[{
-          "id":"385979ffd36640d8b2f4a290b3b69fae",
+          "id":"c8f0bf0062944f0d8cb05e65d56c664f",
           "label":"",
           "type":"imageBox",
           "styleType":"imageBox",
           "visible":true,
           "style":{
             "location":{
-              "x":80,
-              "y":1120},
-            "size":{
-              "width":1068,
-              "height":980}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"92c0142000d04bb7afda13ffe81bac26",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":80,
-                  "y":1120},
-                "size":{
-                  "width":1068,
-                  "height":980}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/流程图/u0.png"}},
-{
-          "id":"55584b2c0dc242d4a060ad8fb9569813",
-          "label":"",
-          "type":"imageBox",
-          "styleType":"imageBox",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":80,
-              "y":2140},
-            "size":{
-              "width":1068,
-              "height":1359}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"c15737be6a734387927b9275b7c8c3f2",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":80,
-                  "y":2140},
-                "size":{
-                  "width":1068,
-                  "height":1359}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/流程图/u2.png"}},
-{
-          "id":"3929f8f62cad4777b86e4febf76028bd",
-          "label":"",
-          "type":"imageBox",
-          "styleType":"imageBox",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":80,
-              "y":40},
+              "x":152,
+              "y":72},
             "size":{
               "width":1068,
               "height":1048}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"dddb81cbe1854e38b954cfffaa883be2",
+              "id":"4cc2274591c3434abb6c8ac6192fe4a4",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -119,11 +53,77 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":80,
-                  "y":40},
+                  "x":152,
+                  "y":72},
                 "size":{
                   "width":1068,
                   "height":1048}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/流程图/u0.png"}},
+{
+          "id":"56dc2a2b3b204446a56bbd48e2ba6a73",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":152,
+              "y":1170},
+            "size":{
+              "width":1068,
+              "height":980}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"906519a2ce964262b4711c094dc87451",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":152,
+                  "y":1170},
+                "size":{
+                  "width":1068,
+                  "height":980}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/流程图/u2.png"}},
+{
+          "id":"eb28488a0608483e9a852948f084ea15",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":152,
+              "y":2201},
+            "size":{
+              "width":1068,
+              "height":1359}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"59966d7e07024a49940e079850640ecb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":152,
+                  "y":2201},
+                "size":{
+                  "width":1068,
+                  "height":1359}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -131,15 +131,15 @@
   "masters":{
 },
   "objectPaths":{
-    "385979ffd36640d8b2f4a290b3b69fae":{
+    "c8f0bf0062944f0d8cb05e65d56c664f":{
       "scriptId":"u0"},
-    "92c0142000d04bb7afda13ffe81bac26":{
+    "4cc2274591c3434abb6c8ac6192fe4a4":{
       "scriptId":"u1"},
-    "55584b2c0dc242d4a060ad8fb9569813":{
+    "56dc2a2b3b204446a56bbd48e2ba6a73":{
       "scriptId":"u2"},
-    "c15737be6a734387927b9275b7c8c3f2":{
+    "906519a2ce964262b4711c094dc87451":{
       "scriptId":"u3"},
-    "3929f8f62cad4777b86e4febf76028bd":{
+    "eb28488a0608483e9a852948f084ea15":{
       "scriptId":"u4"},
-    "dddb81cbe1854e38b954cfffaa883be2":{
+    "59966d7e07024a49940e079850640ecb":{
       "scriptId":"u5"}}});
